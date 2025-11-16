@@ -6,7 +6,7 @@ This project fulfills all requirements of a case study, including model developm
 
 ## 📈 Dashboard Preview
 
-[**[YOUR-SCREENSHOT-HERE]**](https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/main/Dashboard1.png)
+(https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/main/Dashboard1.png)
 https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/main/Dashboard2.png
 https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/main/Dashboard3.png
 
@@ -53,3 +53,4 @@ https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/ma
     streamlit run dashboard.py
 
     ```
+
