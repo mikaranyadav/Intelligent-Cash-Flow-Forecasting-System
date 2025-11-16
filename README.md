@@ -6,7 +6,9 @@ This project fulfills all requirements of a case study, including model developm
 
 ## 📈 Dashboard Preview
 
-**[YOUR-SCREENSHOT-HERE]**
+[**[YOUR-SCREENSHOT-HERE]**](https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/main/Dashboard1.png)
+https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/main/Dashboard2.png
+https://github.com/mikaranyadav/Intelligent-Cash-Flow-Forecasting-System/blob/main/Dashboard3.png
 
 ## 🛠️ Tech Stack
 * **Core:** Python, Pandas, NumPy
@@ -49,4 +51,5 @@ This project fulfills all requirements of a case study, including model developm
 4.  **Run the dashboard!**
     ```bash
     streamlit run dashboard.py
+
     ```
