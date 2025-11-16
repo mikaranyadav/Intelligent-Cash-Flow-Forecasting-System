@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Generated Data - DO NOT UPLOAD
+*.csv
+
+# Trained Models - DO NOT UPLOAD
+*.joblib
+*.keras
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
